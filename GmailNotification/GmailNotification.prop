@@ -1,0 +1,11 @@
+{
+  "modules" : { 
+    "GmailNotification":     {
+      "description": "Lecture des mails du titre non lus",
+      "version"    : "3.16",
+	  "Auteur": "Avatar Rousseau (Dark Best)",
+	  "user"	   : "avatardu33@gmail.com",
+	  "password"   : "avatarrousseau251184"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.plugin-gridster.GmailNotification .front {
+  background: #55b5e6 url('images/gmail.gif') center 34px;
+  background-size:   100px 75px;
+  background-repeat: no-repeat;
+}
+.plugin-gridster.GmailNotification .back {
+  background: #070000 url('images/gmail2.gif') center 34px;
+  background-size:   100px 75px;
+  background-repeat: no-repeat;
+}
