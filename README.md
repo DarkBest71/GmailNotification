@@ -13,7 +13,7 @@ Pour que cela fonctionne aller dans le fichier GmailNotification.prop modifier l
 #Ligne 7:
 
 "user"	   : "Wili@gmail.com",
-Remplacer cette imail par la votre.
+Remplacer cette email par la votre.
 
 #Ligne 8:
 
